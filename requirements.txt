@@ -1,0 +1,11 @@
+os 
+numpy
+pandas
+pickle
+tensorflow
+tensorflow.keras.preprocessing
+tensorflow.keras.layers
+tensorflow.keras.applications.resnet50
+sklearn.neighbors
+numpy.linalg
+tqdm
